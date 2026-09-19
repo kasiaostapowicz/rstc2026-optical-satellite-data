@@ -13,16 +13,16 @@ The course introduces access, processing and analysis of optical satellite obser
 
 ## Course structure
 
-### 1. Optical Satellite Data: Access and Processing
+### [1. Optical Satellite Data: Access and Processing](01-data-access-and-processing/)
 Access to Sentinel-2 data, image inspection, quality screening, cloud handling and basic spectral-index analysis.
 
-### 2. Snow Cover in Arctic Vegetation Monitoring
+### [2. Snow Cover in Arctic Vegetation Monitoring](02-snow-in-arctic-vegetation/)
 Satellite-based approaches for observing snow cover and its role in Arctic vegetation monitoring.
 
-### 3. Vegetation Time-Series Analysis and Phenology
+### [3. Vegetation Time-Series Analysis and Phenology](03-vegetation-time-series-and-phenology/)
 Analysis of Sentinel-2 vegetation-index time series, seasonal dynamics and simple phenological metrics.
 
-### 4. GeoAI for Arctic Vegetation Classification
+### [4. GeoAI for Arctic Vegetation Classification](04-vegetation-classification/)
 Supervised vegetation classification using Sentinel-2 data, environmental predictors and Random Forest, with an introduction to more advanced GeoAI approaches.
 
 ## Course materials
