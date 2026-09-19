@@ -1,4 +1,8 @@
-# Part 3: Optical Satellite Data – Vegetation change and phenology
+## Vegetation Time-Series Analysis and Phenology
 
-This folder contains the lecture and practical exercise for part 3 of
-the course.
+This module explores seasonal vegetation dynamics using multi-temporal Sentinel-2 observations. The practical exercise builds vegetation-index time series, including NDVI and red-edge information, compares seasonal and interannual patterns, and derives simple phenological metrics for Arctic vegetation.
+
+### Materials
+
+* Lecture slides (PDF)
+* Practical exercise (Jupyter/Google Colab notebook)
