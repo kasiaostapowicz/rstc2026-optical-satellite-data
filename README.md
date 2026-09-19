@@ -1,6 +1,13 @@
 # Optical Satellite Data – RSTC2026
 
-Lecture materials and practical Python exercises prepared for the SIOS Remote Sensing Training Course 2026.
+SIOS Training Course on Satellite and UAV Remote Sensing of the Arctic biosphere (https://sios-svalbard.org/RSTC2026)
+
+14-19/09/2026, Longyearbyen, Svalbard, Norway
+
+## Lecturers
+
+* **Katarzyna Ostapowicz** — Norwegian Institute for Nature Research (NINA)
+* **Yeliz A. Yılmaz** — Department of Geosciences, University of Oslo
 
 The course introduces access, processing and analysis of optical satellite observations, with examples focused on Arctic vegetation and environmental monitoring.
 
@@ -29,11 +36,3 @@ Each module contains:
 
 Before running the practical exercises, see [SETUP.md](SETUP.md) for information about the required accounts and online services.
 
-## ## Lecturers
-
-* **Katarzyna Ostapowicz** — Norwegian Institute for Nature Research (NINA)
-* **Yeliz A. Yılmaz** — Department of Geosciences, University of Oslo
-
-## Course
-
-SIOS Remote Sensing Training Course 2026
