@@ -1,4 +1,8 @@
-# Part 4: Optical Satellite Data – Access and Processing
+## GeoAI for Arctic Vegetation Classification
 
-This folder contains the lecture and practical exercise for part 4 of
-the course.
+This module introduces satellite-based vegetation classification using supervised machine learning. The practical exercise uses Sentinel-2 spectral information together with an elevation predictor to train and evaluate a Random Forest classifier, with discussion of model validation, classification accuracy, limitations, and links to more advanced GeoAI and deep-learning approaches.
+
+### Materials
+
+* Lecture slides (PDF)
+* Practical exercise (Jupyter/Google Colab notebook)
