@@ -1,8 +1,10 @@
-# Part 2: Optical Satellite Data – Snow cover in Arctic vegetation monitoring
+## Part 2: Optical Satellite Data – Snow cover in Arctic vegetation monitoring
 
-This folder contains the lecture and practical exercise for the second part of
-the course.
+This module focuses on the use of optical satellite data for snow-cover monitoring in Arctic vegetation environments.
 
-In the practical part, we focus on calculating NDSI from Sentinel-2 and MODIS
-and compare their time series. Then, we have a close look at the NIR band for
-differentiating wet and dry snow.
+In the practical exercise, we calculate NDSI from Sentinel-2 and MODIS observations and compare their time series. We then examine the near-infrared (NIR) band more closely to explore differences between wet and dry snow.
+
+### Materials
+
+- Lecture slides (PDF)
+- Practical exercise (Jupyter/Google Colab notebook)
