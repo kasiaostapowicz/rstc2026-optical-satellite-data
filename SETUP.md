@@ -12,12 +12,12 @@ Create a free account at:
 
 https://dataspace.copernicus.eu/
 
-This account will be used to:
+The Copernicus Data Space Ecosystem is used in Practical Exercise 1 to:
 
-* search for Sentinel-2 imagery;
-* access Sentinel-2 Level-2A products;
-* inspect available acquisitions;
-* access satellite data programmatically from Python.
+- search for Sentinel-2 imagery;
+- access Sentinel-2 Level-2A products;
+- inspect available acquisitions;
+- access satellite data with API.
 
 Before starting the exercises, make sure that you can log in successfully.
 
